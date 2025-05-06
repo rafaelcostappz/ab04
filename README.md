@@ -5,9 +5,6 @@
 # AbacatePay Node.js SDK
 
 [![npm version](https://img.shields.io/npm/v/@coelho38r/abct01)](https://www.npmjs.com/package/abacatepay-sdk)
-[![build status](https://github.com/rafaelcostappz/ab03/actions/workflows/lint-test.yml/badge.svg)](https://github.com/rafaelcostappz/ab03/actions)
-[![code coverage](https://img.shields.io/codecov/c/github/rafaelcostappz/ab03)](https://codecov.io/gh/rafaelcostappz/ab03)
-[![license](https://img.shields.io/github/license/rafaelcostappz/ab03)](LICENSE)
 
 
 🥑 SDK oficial open source da [AbacatePay](https://abacatepay.com) para integração com a API REST da plataforma em aplicações Node.js.
