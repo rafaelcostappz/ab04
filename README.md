@@ -2,15 +2,23 @@
   <img src="https://github.com/rafaelcostappz/abct/blob/main/assets/banner.png" alt="AbacatePay Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://rafaelcostappz.github.io/abct/#/languages/nodejs/CONTRIBUTING">
+    <img alt="Contributing" src="https://img.shields.io/badge/Contributing-Guide-blue?style=for-the-badge">
+  </a>
+  <a href="https://rafaelcostappz.github.io/abct/#/policies/SECURITY_POLICY">
+    <img alt="Security" src="https://img.shields.io/badge/Security-Policy-red?style=for-the-badge">
+  </a>
+  <a href="#licença">
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge">
+  </a>
+</p>
+
 # AbacatePay Node.js SDK
 
 [![npm version](https://img.shields.io/npm/v/@coelho38r/abct01)](https://www.npmjs.com/package/abacatepay-sdk)
-[![build status](https://github.com/rafaelcostappz/ab03/actions/workflows/lint-test.yml/badge.svg)](https://github.com/rafaelcostappz/ab03/actions)
-[![code coverage](https://img.shields.io/codecov/c/github/rafaelcostappz/ab03)](https://codecov.io/gh/rafaelcostappz/ab03)
-[![license](https://img.shields.io/github/license/rafaelcostappz/ab03)](LICENSE)
 
-
-🥑 SDK oficial open source da [AbacatePay](https://abacatepay.com) para integração com a API REST da plataforma em aplicações Node.js.
+SDK oficial open source da [AbacatePay](https://abacatepay.com) para integração com a API REST da plataforma em aplicações Node.js.
 
 Desenvolvido com foco em simplicidade, segurança e extensibilidade.
 
@@ -73,13 +81,13 @@ Cobertura mínima exigida: 80%.
 
 Este é um projeto open source mantido com apoio da comunidade.
 
-Antes de contribuir, leia o nosso [Guia de Contribuição](https://github.com/rafaelcostappz/abct/blob/main/languages/nodejs/CONTRIBUTING.md) e siga o fluxo de desenvolvimento indicado.
+Antes de contribuir, leia o nosso [Guia de Contribuição](https://rafaelcostappz.github.io/abct/#/languages/nodejs/CONTRIBUTING) e siga o fluxo de desenvolvimento indicado.
 
 ---
 
 ## Segurança
 
-Caso identifique alguma vulnerabilidade, consulte a nossa [Política de Segurança](https://github.com/rafaelcostappz/abct/blob/main/policies/SECURITY_POLICY.md) para saber como reportar de forma responsável.
+Caso identifique alguma vulnerabilidade, consulte a nossa [Política de Segurança](https://rafaelcostappz.github.io/abct/#/policies/SECURITY_POLICY) para saber como reportar de forma responsável.
 
 ---
 
