@@ -1,3 +1,4 @@
+// test
 export function soma(z: number, b: number): number {
 	return z + b;
 }
