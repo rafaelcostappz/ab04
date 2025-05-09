@@ -1,6 +1,6 @@
 {
   "name": "@coelho38r/abct01",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "SDK para integração com a AbacatePay.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
